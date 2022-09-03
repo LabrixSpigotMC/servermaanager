@@ -1,0 +1,2 @@
+# ServerManager
+Manage your server.
