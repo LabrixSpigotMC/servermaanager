@@ -1,0 +1,9 @@
+name: ServerManager
+version: '4.6'
+main: net.cayoe.BukkitBootstrap
+api-version: 1.16
+commands:
+  servermanager:
+    aliases: [sm]
+    description: 'Open the ServerManager UI'
+
